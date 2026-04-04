@@ -5,7 +5,7 @@ import br.com.minhasMusicas.Modelos.Musica;
 import br.com.minhasMusicas.Modelos.Podcast;
 
 public class Principal {
-    public void main (String[] args) {
+    public static void main (String[] args) {
         Musica musica = new Musica();
 
         musica.setTitulo("Sway");

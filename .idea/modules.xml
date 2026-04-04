@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos/OrientacaoObjetos.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos/OrientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos/Praticando-POO/Praticando-POO.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos/Praticando-POO/Praticando-POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/voltando-pro-java.iml" filepath="$PROJECT_DIR$/voltando-pro-java.iml" />
     </modules>
   </component>
