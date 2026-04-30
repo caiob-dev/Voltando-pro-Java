@@ -5,10 +5,14 @@ public class Atletas {
     private String esportePraticado;
     private int totalVezesNaSemana;
     private int classificacao;
-    private boolean patrocionio;
+    private String descricao;
 
     public void praticadoNaSemana() {
         totalVezesNaSemana++;
+    }
+
+    public String getDescricao() {
+        return "O atleta: " + nome + " pratica: " + esportePraticado;
     }
 
     public String getNome() {
@@ -25,14 +29,6 @@ public class Atletas {
 
     public void setEsportePraticado(String esportePraticado) {
         this.esportePraticado = esportePraticado;
-    }
-
-    public boolean isPatrocionio() {
-        return patrocionio;
-    }
-
-    public void setPatrocionio(boolean patrocionio) {
-        this.patrocionio = patrocionio;
     }
 
     public int getTotalVezesNaSemana() {

@@ -12,7 +12,7 @@ public class Principal {
         caio.setNome("Caio");
         caio.setEsportePraticado("Musculação");
         caio.setTreinador("Vitor");
-        caio.setPatrocionio(true);
+        caio.setPatrocinio(true);
 
         for (int i = 0; i < 7; i++) {
             caio.praticadoNaSemana();
@@ -23,7 +23,7 @@ public class Principal {
         jose.setNome("José");
         jose.setEsportePraticado("Musculação");
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 4; i++) {
             jose.praticadoNaSemana();
         }
 
